@@ -2,9 +2,11 @@
 
 ```bash
 git config --global user.name "misawa3017"
-
+```
+```bash
 git config --global user.name "misawa3017"
-
+```
+```bash
 git init
 ```
 
