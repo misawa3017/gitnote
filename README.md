@@ -1,6 +1,6 @@
 # git教學
 
-## 初始化
+## git初始化 new repo
 
 ```bash
 git config --global user.name "misawa3017"
@@ -11,7 +11,13 @@ git config --global user.name "misawa3017"
 ```
 
 ```bash
+echo "# bashnote" >> README.md
 git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/misawa3017/bashnote.git
+git push -u origin main
 ```
 
 ## 新增分支並切換分支
