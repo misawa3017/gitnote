@@ -20,6 +20,14 @@ git remote add origin https://github.com/misawa3017/bashnote.git
 git push -u origin main
 ```
 
+## 上傳已存在的repo
+
+```bash
+git remote add origin https://github.com/misawa3017/bashnote.git
+git branch -M main
+git push -u origin main
+```
+
 ## 新增分支並切換分支
 
 ```bash
