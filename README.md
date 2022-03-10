@@ -1,4 +1,6 @@
-# git初始化
+# git教學
+
+## 初始化
 
 ```bash
 git config --global user.name "misawa3017"
