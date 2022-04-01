@@ -39,3 +39,9 @@ git checkout -b 1110308
 git fetch
 git checkout <遠端分支>
 ```
+## git merge 假如要master 要合併<要被合併的分支>
+```bash
+git checkout master
+git merge <要被合併的分支>
+git push
+```
