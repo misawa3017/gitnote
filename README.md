@@ -45,3 +45,8 @@ git checkout master
 git merge <要被合併的分支>
 git push
 ```
+
+## git 刪除分支
+```bash
+git branch -d <branch>
+```
