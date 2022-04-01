@@ -33,3 +33,9 @@ git push -u origin main
 ```bash
 git checkout -b 1110308
 ```
+
+## git clone 後，切換遠端分支
+```bash
+git fetch
+git checkout <遠端分支>
+```
