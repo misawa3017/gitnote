@@ -4,3 +4,4 @@ commit 記錄索引的狀態
 pull 取得遠端數據庫的內容
 aaaaaaaaaaaaaaaaaaaaaaaaa
 bbbbbbbbbbbbbbbbbbbbbbbbb
+測試遠端資料較local新的時候
