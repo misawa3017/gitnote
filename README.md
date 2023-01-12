@@ -50,3 +50,9 @@ git push
 ```bash
 git branch -d <branch>
 ```
+## reset 本地並同步遠端
+```bash
+git fetch
+git reset --hard HEAD
+git merge origin/$CURRENT_BRANCH
+```
