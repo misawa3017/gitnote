@@ -20,6 +20,10 @@ git remote add origin https://github.com/misawa3017/bashnote.git
 git push -u origin main
 ```
 
+## 更新遠端repo url
+```bash
+git remote set-url origin git@github.com:misawa3017/config.git
+```
 ## 上傳已存在的repo
 
 ```bash
