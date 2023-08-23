@@ -63,3 +63,9 @@ git fetch
 git reset --hard HEAD
 git merge origin/$CURRENT_BRANCH
 ```
+
+### 假如你原本新增一個檔案並add to staging 後反悔
+```bash
+git restore --staged a.sh
+git status
+```
