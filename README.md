@@ -1,6 +1,6 @@
 # git教學
 
-![git原理](http://static.runoob.com/images/runoob-logo.pnghttps://github.com/misawa3017/gitnote/blob/main/git_principle.png)
+![git原理](https://github.com/misawa3017/gitnote/blob/main/git_principle.png)
 
 
 ## git初始化 new repo
