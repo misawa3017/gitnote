@@ -6,11 +6,11 @@
 ## git初始化 new repo
 
 ```bash
-git config --global user.name "misawa3017"
+git config --global user.name "user"
 ```
 
 ```bash
-git config --global user.email "misawa3017@gmail.com"
+git config --global user.email "user@gmail.com"
 ```
 
 ```bash
