@@ -69,3 +69,8 @@ git merge origin/$CURRENT_BRANCH
 git restore --staged a.sh
 git status
 ```
+
+### 也可以執行這個指令
+```bash
+git reset HEAD
+```
